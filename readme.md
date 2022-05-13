@@ -23,4 +23,4 @@ Add ikoncept to the services array in `config/services.php`:
     ],
 
 ```
-*Note that the redirect has to match with the configured redirect path in the OAuth server (auth.ikoncept.nu)*
+*Note that the redirect has to match with the configured redirect path in the OAuth server (auth.ikoncept.se)*
