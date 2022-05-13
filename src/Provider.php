@@ -18,7 +18,7 @@ class Provider extends AbstractProvider implements ProviderInterface
      */
     protected $scopes = [];
 
-    protected $basepath = 'https://auth.ikoncept.io';
+    protected $basepath = 'https://auth.ikoncept.se';
 
     /**
      * {@inheritdoc}
