@@ -19,7 +19,7 @@ Add ikoncept to the services array in `config/services.php`:
     'ikoncept' => [
         'client_id' => env('IKONCEPT_CLIENT_ID'),         // Your Ikoncept Client ID
         'client_secret' => env('IKONCEPT_CLIENT_SECRET'), // Your Ikoncept Client Secret
-        'redirect' => 'http://shin.test/login/ikoncept/callback'
+        'redirect' => 'http://ikoncept.se/login/ikoncept/callback'
     ],
 
 ```
