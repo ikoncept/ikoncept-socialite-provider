@@ -1,0 +1,18 @@
+{
+    "name": "ikoncept/ikonceptsocialiteprovider",
+    "description": "Ikoncept OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Albin N",
+        "email": "albin@ikoncept.se"
+    }],
+    "require": {
+        "php": "^7.0|^8.0",
+        "socialiteproviders/manager": "^2.0|^3.0|^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ikoncept\\IkonceptSocialiteProvider\\": "src/"
+        }
+    }
+}
