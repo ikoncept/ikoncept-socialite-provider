@@ -1,5 +1,5 @@
 {
-    "name": "ikoncept/ikonceptsocialiteprovider",
+    "name": "ikoncept/ikoncept-socialite-provider",
     "description": "Ikoncept OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
